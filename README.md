@@ -1,4 +1,4 @@
-# Zigzag Python (Tugas UTS Semester 5)
+# Simple Zigzag Python (Tugas UTS Semester 5)
 
 Program ini menampilkan animasi teks bergerak berbentuk zigzag dengan efek gradasi warna Cold → Normal → Hot, serta dark mode UI. Aplikasi dibangun menggunakan Python Tkinter dan mendukung pengaturan speed/FPS secara real-time.
 
